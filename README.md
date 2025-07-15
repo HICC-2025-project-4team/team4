@@ -60,16 +60,16 @@ Requirements
   </tr>
   <tr>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
+      <img width="160px" src="https://avatars.githubusercontent.com/u/188848771?v=4" />
     </td>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
+       <img width="160px" src="https://avatars.githubusercontent.com/u/139611910?s=400&u=c3c4a6eb05429b73e109293cac9ad11680365b1a&v=4" />
     </td>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
+      <img width="160px" src="https://github.com/user-attachments/assets/3471d8d4-b25d-49b1-8980-a23f877fbbc8" />
     </td>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
+      <img width="160px" src="https://avatars.githubusercontent.com/u/195542716?s=400&u=42372de0252734a071646c6136a851f9c088cf62&v=4" />
     </td>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
       <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
