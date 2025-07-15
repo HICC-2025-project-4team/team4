@@ -20,6 +20,8 @@
 - Figma  
 - Notion (플로우 차트 및 명세 관리용)
 
+---
+
 # 학과 통계 열람기
 
 ---
@@ -46,27 +48,6 @@
 
 ---
 
-## 📂 시작 가이드
-### Requirements
-- Node.js 14.19.3
-- Npm 9.2.0
-- Django 4.0
-- Django REST Framework
-- PostgreSQL
-- Tesseract OCR
-- Kakao OCR API
-- Chart.js
-
-Requirements
-- Node.js 14.19.3
-- Django 4.0
-- Django REST Framework
-- PostgreSQL
-- Npm 9.2.0
-- Tesseract OCR
-- Kakao OCR API
-- Chart.js
----
 
 ## 팀 구성
 
