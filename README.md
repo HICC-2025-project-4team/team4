@@ -30,9 +30,9 @@
 
 #### 🖥️ Backend
 - Python 3.10 이상  
-- Django 4.0  
-- Django REST Framework  
-- PostgreSQL  
+- [Django 4.0](https://www.djangoproject.com/)
+- [Django REST Framework](https://www.django-rest-framework.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 - Kakao OCR API
 
 #### 💻 Frontend
