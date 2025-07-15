@@ -29,22 +29,22 @@
 ### Requirements
 
 #### 🖥️ Backend
-- Python 3.10 이상  
+- [Python 3.10 이상](https://www.python.org/downloads/release/python-3100/)
 - [Django 4.0](https://www.djangoproject.com/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - Kakao OCR API
 
 #### 💻 Frontend
-- Node.js 14.19.3  
-- Npm 9.2.0  
-- React.js  
-- Axios  
-- Chart.js
+- [Node.js 14.19.3](https://nodejs.org/en)
+- [Npm 9.2.0](https://docs.npmjs.com/cli/v9/commands/npm)  
+- [React.js](https://react.dev/)
+- [Axios](https://axios-http.com/)
+- [Chart.js](https://www.chartjs.org/)
 
 #### 🎨 Design
-- Figma  
-- Notion (플로우 차트 및 명세 관리용)
+- [Figma](https://www.figma.com)
+- [Notion](https://www.notion.com/) (플로우 차트 및 명세 관리용)
 
 ---
 
