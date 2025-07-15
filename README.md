@@ -1,27 +1,3 @@
-## 📁 시작 가이드
-
-### Requirements
-
-#### 🖥️ Backend
-- Python 3.10 이상  
-- Django 4.0  
-- Django REST Framework  
-- PostgreSQL  
-- Kakao OCR API
-
-#### 💻 Frontend
-- Node.js 14.19.3  
-- Npm 9.2.0  
-- React.js  
-- Axios  
-- Chart.js
-
-#### 🎨 Design
-- Figma  
-- Notion (플로우 차트 및 명세 관리용)
-
----
-
 # 학과 통계 열람기
 
 ---
@@ -45,6 +21,30 @@
 ---
 
 ## 프로젝트 플랜
+
+---
+
+## 📁 시작 가이드
+
+### Requirements
+
+#### 🖥️ Backend
+- Python 3.10 이상  
+- Django 4.0  
+- Django REST Framework  
+- PostgreSQL  
+- Kakao OCR API
+
+#### 💻 Frontend
+- Node.js 14.19.3  
+- Npm 9.2.0  
+- React.js  
+- Axios  
+- Chart.js
+
+#### 🎨 Design
+- Figma  
+- Notion (플로우 차트 및 명세 관리용)
 
 ---
 
