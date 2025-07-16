@@ -123,4 +123,34 @@
 
 ---
 
-## 아키택쳐
+## 💡 아키텍처
+
+### 시스템 구성
+
+- **Frontend**: React.js  
+  사용자로부터 성적표 이미지 업로드 → 서버로 전송 → 결과 시각화  
+- **Backend**: Django + DRF  
+  이미지 처리, Kakao OCR API 연동, 과목/학점/학기 파싱, 졸업요건 계산  
+- **Database**: PostgreSQL  
+  과목, 학점, 이수 상태 저장 및 통계 관리  
+- **OCR API**: Kakao OCR  
+  이미지 → 텍스트 변환
+
+---
+
+### 🔧 디렉토리 구조
+
+```bash
+📦 project-root
+├── backend               # Django 기반 백엔드
+│   ├── api              # DB 모델, 시리얼라이저, API 뷰 등
+│   ├── config           # 프로젝트 설정 (settings, urls 등)
+│   └── public           # 업로드된 성적표 이미지 저장
+│
+├── frontend             # React 기반 프론트엔드
+│   ├── components       # 재사용 가능한 UI 컴포넌트
+│   ├── pages            # 페이지 단위 라우팅 구성
+│   └── styles           # 전역 및 모듈 스타일 파일
+│
+└── README.md            # 프로젝트 설명 문서
+
