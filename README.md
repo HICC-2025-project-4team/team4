@@ -1,5 +1,9 @@
 # 학과 통계 열람기
 
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="프로젝트 대표 이미지" width="800"/>
+</p>
+
 ---
 
 ## 프로젝트 소개
