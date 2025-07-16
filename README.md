@@ -157,10 +157,9 @@
 │   └── styles           # 전역 및 모듈 스타일 파일
 │
 └── README.md            # 프로젝트 설명 문서
+```
 
----
-
-## 📄 기능 명세서
+### 📄 기능 명세서
 
 👉 [기능 명세서 보기](https://drive.google.com/file/d/파일ID/view?usp=sharing)
 
