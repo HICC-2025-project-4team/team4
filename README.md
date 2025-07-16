@@ -163,7 +163,7 @@
 
 ### 📄 기능 명세서
 
-👉 [기능 명세서 보기](https://drive.google.com/file/d/파일ID/view?usp=sharing)
+👉 [기능 명세서 보기](https://github.com/HICC-2025-project-4team/team4/blob/main/%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.xlsx)
 
 본 문서에는 기능 설명, API 흐름, 예외 처리 조건 등이 포함되어 있으며  
 백엔드/프론트 개발 시 이를 기준으로 구현이 진행됩니다.
