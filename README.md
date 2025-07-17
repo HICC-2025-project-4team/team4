@@ -52,7 +52,46 @@
 #### 🖥️ Backend
 - [Python 3.10 이상](https://www.python.org/downloads/release/python-3100/)
 - [Django 4.0](https://www.djangoproject.com/)
-- [Django REST Framework](https://www.django-res진.jpg?raw=true" />
+- [Django REST Framework](https://www.django-rest-framework.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- Kakao OCR API
+
+#### 💻 Frontend
+- [Node.js 14.19.3](https://nodejs.org/en)
+- [Npm 9.2.0](https://docs.npmjs.com/cli/v9/commands/npm)  
+- [React.js](https://react.dev/)
+- [Axios](https://axios-http.com/)
+- [Chart.js](https://www.chartjs.org/)
+
+#### 🎨 Design
+- [Figma](https://www.figma.com)
+- [Notion](https://www.notion.com/) (플로우 차트 및 명세 관리용)
+
+---
+
+
+## 팀 구성
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">팀장 신성현</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">이나나</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">강 산</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">김의림</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">곽유나</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img width="160px" src="https://avatars.githubusercontent.com/u/188848771?v=4" />
+    </td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+       <img width="160px" src="https://github.com/user-attachments/assets/3471d8d4-b25d-49b1-8980-a23f877fbbc8" />
+    </td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img width="160px" src="https://avatars.githubusercontent.com/u/139611910?s=400&u=c3c4a6eb05429b73e109293cac9ad11680365b1a&v=4" /> 
+    </td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img width="160px" src="https://github.com/Uirim/Uirim/blob/main/myphoto.jpg?raw=true" />
     </td>
     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
       <img width="160px" src="https://avatars.githubusercontent.com/u/195542716?s=400&u=42372de0252734a071646c6136a851f9c088cf62&v=4" />
@@ -128,4 +167,3 @@
 
 본 문서에는 기능 설명, API 흐름, 예외 처리 조건 등이 포함되어 있으며  
 백엔드/프론트 개발 시 이를 기준으로 구현이 진행됩니다.
-
