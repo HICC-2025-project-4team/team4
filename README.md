@@ -1,4 +1,4 @@
-# GR(Graduation Requirements)봇
+# GR(Graduation Requirements) 봇
 
 <p align="center">
   <img src="https://your-image-url.com/banner.png" alt="프로젝트 대표 이미지" width="800"/>
