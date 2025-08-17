@@ -1,7 +1,8 @@
 # 홍익 졸업 봇
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="프로젝트 대표 이미지" width="800"/>
+  <img src="![Uploading image.png…]()
+" alt="프로젝트 대표 이미지" width="800"/>
 </p>
 
 ---
